@@ -9,6 +9,6 @@ Com formação em Engenharia Eletrônica, estou migrando em uma  jornada rumo à
 </div> 
 
 ### Você também me encontra em:
-&nbsp;<a href="[https://www.linkedin.com/in/igor-matheus-pedro/]">
+&nbsp;<a href="https://www.linkedin.com/in/igor-matheus-pedro">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
